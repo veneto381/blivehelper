@@ -1,4 +1,4 @@
-module blivehelper
+module github.com/veneto381/blivehelper
 
 go 1.20
 
