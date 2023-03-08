@@ -4,7 +4,7 @@ bilibili（看）直播小工具
 TODO:
 - [ ] 登陆
 - [ ] 发送弹幕
-- [ ] 获取SC
+- [ ] 获取SC  
 使用方法：  
 ```go
 b := blivehelper.Default()
